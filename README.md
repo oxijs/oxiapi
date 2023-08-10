@@ -7,7 +7,7 @@ The easiest way to interact with **[The OxiAPI](https://oxiapi.carrd.co)**, a sp
 
 ## Installation
 ```bash
-npm install @oxi/oxiapi
+npm install oxiapi
 ```
 ### Example
 ```js
