@@ -11,7 +11,7 @@ npm install @oxi/oxiapi
 ```
 ### Example
 ```js
-const api = require('@oxi/oxiapi');
+const api = require('oxiapi');
 
 (async () => {
     const data = await api.json.translate(null, 'en', '¡Hola!'); // 1st parameter is "from" (from what language to translate), if you leave it undefined or 'null', it'll use auto language detection.
