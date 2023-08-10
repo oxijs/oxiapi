@@ -1,4 +1,4 @@
-# @oxi/oxiapi
+# oxiapi
 The easiest way to interact with **[The OxiAPI](https://oxiapi.carrd.co)**, a spanish API.
 
 ## Table of contents
